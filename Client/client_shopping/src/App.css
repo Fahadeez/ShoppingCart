@@ -1,0 +1,70 @@
+
+.titleDiv{
+     background-color: #EFEFEF;
+     padding: 20px;
+}
+.titleDiv > h2 {
+  margin-left: 40%
+}
+.search{
+   width: 400px;
+   height: 40px;
+   padding: 10px;
+
+}
+.btnSearch{
+   height: 40px;
+   margin-top: 1px;
+}
+.searchContainer{
+  margin-top: 50px;
+  margin-left: 28%;
+}
+.row{
+  border-bottom: 0.5px solid gray;
+  border-top: 0.5px solid gray;
+  padding: 20px;
+  margin-top: 10px;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  text-align: left;
+  background-color: #EFEFEF;
+}
+.productDiv > h5 {
+  text-align: center;
+}
+.h5Price {
+  /* margin-left: 35px;
+  margin-right: 40px; */
+}
+.row1{
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: center;
+}
+.cart{
+  position: relative;
+  left: 37%;
+}
+.productDiv{
+  display: flex;
+  justify-content: space-between;
+  width: 414px;
+}
+.cartHeader{
+  margin-top: 20px;
+}
+.cartLength{
+  background-color: red;
+  height: 22px;
+  width: 22px;
+  border-radius: 100px;
+  color: black;
+  font-size: 14px;
+  position: relative;
+  top: 27px;
+  padding-left: 7px;
+  left: 5px;
+}
